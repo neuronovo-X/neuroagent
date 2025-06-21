@@ -1,0 +1,40 @@
+{
+  "name": "neuroagent",
+  "version": "9.2.7",
+  "description": "🧠 НейроАгент X - Искусственное Коллективное Сознание (ИКС) - Революционная система коллективного ИИ-анализа",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "install-deps": "cd frontend && npm install",
+    "test": "cd frontend && npm test",
+    "setup": "cd frontend && npm install && npm start"
+  },
+  "keywords": [
+    "ai",
+    "artificial-intelligence",
+    "collective-intelligence",
+    "neuroagent",
+    "openrouter",
+    "react",
+    "typescript",
+    "mindloop",
+    "neural-network",
+    "agents",
+    "cognitive-architecture"
+  ],
+  "author": "Нейроново x ЛАИ",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neuronovo-X/neuroagent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neuronovo-X/neuroagent/issues"
+  },
+  "homepage": "https://github.com/neuronovo-X/neuroagent#readme",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  }
+} 
