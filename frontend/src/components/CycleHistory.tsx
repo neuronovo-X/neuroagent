@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { X, Clock, MessageSquare, ChevronRight, Eye, Calendar, Target, Users, Activity, Download, Sparkles, Zap } from 'lucide-react';
+import { X, Clock, MessageSquare, ChevronRight, Eye, Calendar, Target, Users, Activity, Sparkles, Zap } from 'lucide-react';
 import { MindloopCycle } from '../stores/mindloopStore';
 import HtmlExport from './HtmlExport';
 
