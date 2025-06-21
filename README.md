@@ -16,7 +16,7 @@
 ### Windows
 ```bash
 # Просто дважды кликните:
-start.bat
+start-neuroagent.bat
 ```
 
 ### Linux/macOS
