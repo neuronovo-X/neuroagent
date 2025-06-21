@@ -130,11 +130,10 @@ npm start
 - **OpenAI**: GPT-4o, GPT-4o-mini, o1-preview, o1-mini
 - **Anthropic**: Claude 3.5 Sonnet, Claude 3 Opus/Haiku  
 - **Google**: Gemini Pro 1.5, Gemma 3 серия
-- **Meta**: Llama 3.3, Llama 3.1 серия
 - **DeepSeek**: R1, Chat, Coder
 - **Qwen**: 3.0, 2.5, QwQ серия
 - **Mistral**: Large, Small, Nemo
-- **И многие другие...**
+- **Llama 3.3, Llama 3.1 и многие другие...**
 
 ### Системные Требования
 - **Node.js** 16+
